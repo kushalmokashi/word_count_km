@@ -1,14 +1,16 @@
-class ZCL_WORD_COUNT definition
-  public
-  final
-  create public .
+CLASS zcl_word_count DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+PUBLIC SECTION.
+"test commit to github
+PROTECTED SECTION.
+PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS ZCL_WORD_COUNT IMPLEMENTATION.
+CLASS zcl_word_count IMPLEMENTATION.
+
 ENDCLASS.
